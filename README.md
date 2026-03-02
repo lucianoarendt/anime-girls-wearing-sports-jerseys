@@ -64,7 +64,7 @@ Validation checks:
 To validate locally:
 
 ```sh
-go run ./cmd/validate
+go run .
 ```
 
 If validation fails, the CI will block the Pull Request.
