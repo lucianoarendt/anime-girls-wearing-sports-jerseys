@@ -1,0 +1,38 @@
+# =========================
+# Generated files
+# =========================
+generated/
+
+# =========================
+# Go build artifacts
+# =========================
+bin/
+dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Go coverage
+coverage.out
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Editor folders
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log

@@ -1,0 +1,22 @@
+name: Validate Entries
+
+on:
+  pull_request:
+    paths:
+      - "entries/**"
+      - "images/**"
+      - "cmd/**"
+      - "go.mod"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+
+      - run: go run ./cmd/validate
