@@ -27,12 +27,6 @@ entries/ -> JSON metadata files
 
 images/ -> Corresponding images
 
-cmd/validate/ -> Go validator
-
-schema/ -> JSON schema
-
-generated/ -> Generated index (not versioned)
-
 ---
 
 ## 🧾 Entry Format
