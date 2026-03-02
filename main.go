@@ -109,8 +109,7 @@ func main() {
 		"entries":     entries,
 	}
 
-	os.MkdirAll("generated", os.ModePerm)
-	file, _ := os.Create("generated/index.json")
+	file, _ := os.Create("index.json")
 	encoder := json.NewEncoder(file)
 	encoder.SetIndent("", "  ")
 	encoder.Encode(index)
