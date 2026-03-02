@@ -24,9 +24,13 @@ This repository is data-focused, not an application.
 ## 📁 Repository Structure
 
 entries/ -> JSON metadata files
+
 images/ -> Corresponding images
+
 cmd/validate/ -> Go validator
+
 schema/ -> JSON schema
+
 generated/ -> Generated index (not versioned)
 
 ---
