@@ -1,0 +1,34 @@
+name: Generate Index
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "entries/**"
+      - "images/**"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+
+      - name: Generate index
+        run: go run ./cmd/validate
+
+      - name: Commit generated index
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add generated/index.json
+          git commit -m "chore: update generated index" || echo "No changes"
+          git push
