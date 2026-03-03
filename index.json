@@ -7,15 +7,60 @@
       "team": "Palmeiras",
       "sport": "Football",
       "year": 2024,
-      "image": "images/football/chika-palmeiras-0.jpg",
+      "image": "images/football/palmeiras/chika-palmeiras-0.jpg",
       "tags": [
         "football",
         "palmeiras",
         "kaguya-sama-love-is-war",
         "chika"
       ]
+    },
+    {
+      "id": "frieren-palmeiras-0",
+      "character": "Frieren",
+      "anime": "Frieren: Beyond Journey's End",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/frieren-palmeiras-0.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "frieren-beyond-journeys-end",
+        "frieren"
+      ]
+    },
+    {
+      "id": "frieren-palmeiras-1",
+      "character": "Frieren",
+      "anime": "Frieren: Beyond Journey's End",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/frieren-palmeiras-1.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "frieren-beyond-journeys-end",
+        "frieren"
+      ]
+    },
+    {
+      "id": "frieren-palmeiras-2",
+      "character": "Frieren",
+      "anime": "Frieren: Beyond Journey's End",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/frieren-palmeiras-2.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "frieren-beyond-journeys-end",
+        "frieren"
+      ]
     }
   ],
-  "generatedAt": "2026-03-02T21:00:03Z",
-  "total": 1
+  "generatedAt": "2026-03-03T17:02:08Z",
+  "total": 4
 }
