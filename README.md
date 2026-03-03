@@ -4,7 +4,7 @@ A curated open-source dataset of anime girls wearing real-world sports jerseys.
 
 Inspired by [Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books), but focused on sports culture.
 
-![Chika Palmeiras](images/football/chika-palmeiras-0.jpg)
+![Chika Palmeiras](images/football/palmeiras/chika-palmeiras-0.jpg)
 
 ---
 
