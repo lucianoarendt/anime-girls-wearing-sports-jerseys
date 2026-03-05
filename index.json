@@ -16,6 +16,21 @@
       ]
     },
     {
+      "id": "asa-mitaka-palmeiras-0",
+      "character": "Asa Mitaka",
+      "anime": "Chainsaw Man",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/asa-mitaka-palmeiras-0.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "chainsaw-man",
+        "asa-mitaka"
+      ]
+    },
+    {
       "id": "chica-palmeiras-0",
       "character": "Chika",
       "anime": "Kaguya-sama: Love is War",
@@ -91,6 +106,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-03-04T22:20:57Z",
-  "total": 6
+  "generatedAt": "2026-03-05T12:24:39Z",
+  "total": 7
 }
