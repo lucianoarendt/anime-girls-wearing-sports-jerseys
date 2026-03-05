@@ -104,8 +104,54 @@
         "chainsaw-man",
         "makima"
       ]
+    },
+    {
+      "id": "nico-robin-palmeiras-0",
+      "character": "Nico Robin",
+      "anime": "One Piece",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/nico-robin-palmeiras-0.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "one-piece",
+        "nico-robin"
+      ]
+    },
+    {
+      "id": "nobara-palmeiras-0",
+      "character": "Nobara Kuroiwa",
+      "anime": "Jujutsu Kaisen",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/nobara-palmeiras-0.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "jujutsu-kaisen",
+        "nobara-kuroiwa",
+        "nobara"
+      ]
+    },
+    {
+      "id": "ubel-palmeiras-0",
+      "character": "Ubel",
+      "anime": "Frieren: Beyond Journey's End",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/ubel-palmeiras-0.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "ubel",
+        "frieren-beyond-journeys-end"
+      ]
     }
   ],
-  "generatedAt": "2026-03-05T12:24:39Z",
-  "total": 7
+  "generatedAt": "2026-03-05T17:04:13Z",
+  "total": 10
 }
