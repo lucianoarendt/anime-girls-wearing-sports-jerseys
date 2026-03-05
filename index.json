@@ -46,6 +46,21 @@
       ]
     },
     {
+      "id": "darkness-palmeiras-0",
+      "character": "Darkness",
+      "anime": "Konosuba: God's Blessing on This Wonderful World!",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/darkness-palmeiras-0.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "konosuba",
+        "darkness"
+      ]
+    },
+    {
       "id": "frieren-palmeiras-0",
       "character": "Frieren",
       "anime": "Frieren: Beyond Journey's End",
@@ -119,8 +134,54 @@
         "one-piece",
         "nami"
       ]
+    },
+    {
+      "id": "nico-robin-palmeiras-0",
+      "character": "Nico Robin",
+      "anime": "One Piece",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/nico-robin-palmeiras-0.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "one-piece",
+        "nico-robin"
+      ]
+    },
+    {
+      "id": "nobara-palmeiras-0",
+      "character": "Nobara Kuroiwa",
+      "anime": "Jujutsu Kaisen",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/nobara-palmeiras-0.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "jujutsu-kaisen",
+        "nobara-kuroiwa",
+        "nobara"
+      ]
+    },
+    {
+      "id": "ubel-palmeiras-0",
+      "character": "Ubel",
+      "anime": "Frieren: Beyond Journey's End",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/ubel-palmeiras-0.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "ubel",
+        "frieren-beyond-journeys-end"
+      ]
     }
   ],
-  "generatedAt": "2026-03-05T12:29:57Z",
-  "total": 8
+  "generatedAt": "2026-03-05T17:14:59Z",
+  "total": 12
 }
