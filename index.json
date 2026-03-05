@@ -104,8 +104,23 @@
         "chainsaw-man",
         "makima"
       ]
+    },
+    {
+      "id": "nami-palmeiras-0",
+      "character": "Nami",
+      "anime": "One Piece",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/nami-palmeiras-0.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "one-piece",
+        "nami"
+      ]
     }
   ],
-  "generatedAt": "2026-03-05T12:24:39Z",
-  "total": 7
+  "generatedAt": "2026-03-05T12:29:57Z",
+  "total": 8
 }
