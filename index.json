@@ -16,6 +16,21 @@
       ]
     },
     {
+      "id": "aqua-palmeiras-0",
+      "character": "Aqua",
+      "anime": "KonoSuba: God's Blessing on This Wonderful World!",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/aqua-palmeiras-0.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "aqua",
+        "konosuba"
+      ]
+    },
+    {
       "id": "asa-mitaka-palmeiras-0",
       "character": "Asa Mitaka",
       "anime": "Chainsaw Man",
@@ -106,6 +121,22 @@
       ]
     },
     {
+      "id": "gura-palmeiras-0",
+      "character": "Gawr Gura",
+      "anime": "Hololive",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/gura-palmeiras-0.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "gura",
+        "gawr-gura",
+        "hololive"
+      ]
+    },
+    {
       "id": "makima-palmeiras-0",
       "character": "Makima",
       "anime": "Chainsaw Man",
@@ -118,6 +149,21 @@
         "palmeiras",
         "chainsaw-man",
         "makima"
+      ]
+    },
+    {
+      "id": "mikasa-palmeiras-0",
+      "character": "Mikasa",
+      "anime": "Attack on Titan",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/mikasa-palmeiras-0.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "mikasa",
+        "attack-on-titan"
       ]
     },
     {
@@ -167,6 +213,21 @@
       ]
     },
     {
+      "id": "rushia-palmeiras-0",
+      "character": "Rushia",
+      "anime": "Hololive",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/rushia-palmeiras-0.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "rushia",
+        "hololive"
+      ]
+    },
+    {
       "id": "ubel-palmeiras-0",
       "character": "Ubel",
       "anime": "Frieren: Beyond Journey's End",
@@ -180,8 +241,23 @@
         "ubel",
         "frieren-beyond-journeys-end"
       ]
+    },
+    {
+      "id": "yamato-palmeiras-0",
+      "character": "Yamato",
+      "anime": "One Piece",
+      "team": "Palmeiras",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/palmeiras/yamato-palmeiras-0.jpg",
+      "tags": [
+        "football",
+        "palmeiras",
+        "yamato",
+        "one-piece"
+      ]
     }
   ],
-  "generatedAt": "2026-03-05T17:31:02Z",
-  "total": 12
+  "generatedAt": "2026-03-06T11:31:04Z",
+  "total": 17
 }
