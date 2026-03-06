@@ -167,6 +167,21 @@
       ]
     },
     {
+      "id": "nagatoro-guarani-0",
+      "character": "Nagatoro",
+      "anime": "Don't Toy With Me, Miss Nagatoro",
+      "team": "Guarani",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/guarani/nagatoro-guarani-0.jpg",
+      "tags": [
+        "football",
+        "guarani",
+        "nagatoro",
+        "dont-toy-with-me-miss-nagatoro"
+      ]
+    },
+    {
       "id": "nami-palmeiras-0",
       "character": "Nami",
       "anime": "One Piece",
@@ -228,6 +243,22 @@
       ]
     },
     {
+      "id": "toka-takanashi-ponte-preta-0",
+      "character": "Toka Takanashi",
+      "anime": "Love, Chunibyo \u0026 Other Delusions",
+      "team": "Ponte Preta",
+      "sport": "Football",
+      "year": 2024,
+      "image": "images/football/ponte-preta/toka-takanashi-ponte-preta-0.jpg",
+      "tags": [
+        "football",
+        "ponte-preta",
+        "toka-takanashi",
+        "chunibyo",
+        "love-chunibyo-other-delusions"
+      ]
+    },
+    {
       "id": "ubel-palmeiras-0",
       "character": "Ubel",
       "anime": "Frieren: Beyond Journey's End",
@@ -258,6 +289,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-03-06T11:31:04Z",
-  "total": 17
+  "generatedAt": "2026-03-06T11:40:29Z",
+  "total": 19
 }
